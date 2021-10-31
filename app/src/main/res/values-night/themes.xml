@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JEY_MVVM_RD_TASK" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Base application theme. -->
+
+            <!-- Customize your theme here. -->
+            <item name="colorPrimary">@color/colorPrimary</item>
+            <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+            <item name="colorAccent">@color/colorAccent</item>
+
+            <item name="windowNoTitle">true</item>
+            <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
